@@ -7,7 +7,7 @@
  * @version 0.2
  * @author Juan Martin Hierro <jmhierro@gmail.com>
  */
-class youtube extends rcube_plugin {
+class rc_youtube extends rcube_plugin {
         public $task = 'mail';
 
 		function init() {
